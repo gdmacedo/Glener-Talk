@@ -13,7 +13,7 @@ Aprender, desenvolver, como criar uma moeda digital.
 Neste projeto apresento como desenvolver a sua própria criptomoeda, com solidity e utilizando smart contracts!
 
 <p align="center">
-  <img src="https://github.com/gdmacedo/Glener-Talk/Ganache.jpg" alt="Ganache">
+  <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/Ganache.jpg" alt="Ganache">
 </p>
 
 
@@ -26,7 +26,7 @@ Neste projeto foi utilizado, as seguintes ferramentas:
 - Metamask;
 
 <p align="center">
-  <img src="https://github.com/gdmacedo/Glener-Talk/Ganache.jpg" alt="Metamask">
+  <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/MetaMash.jpg" alt="Metamask">
 </p>
 
 
