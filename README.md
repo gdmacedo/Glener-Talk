@@ -1,8 +1,11 @@
 ## Criando uma Criptomoeda da Rede Ethereum
-### Author: Macedo, Glener Diniz
+### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
 
 ### Orientador:
 Cassiano Peres - Instrutor, DIO : DigitalL Innovation One
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
+</p>
 
 <p align="center">
   <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
